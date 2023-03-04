@@ -1,16 +1,15 @@
-### Hi there 👋
+<div >
+    <h2 aling="center">Hello World 👋 I’m Luis Dávila 👨‍💻 </h2>
+    <p aling="center">A passionate web fullstack developer from Colombia. </p>
+    </div>
 
-<!--
-**Schnoodle96/Schnoodle96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### About ME!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m  currently learning about web development.
+- 👯 I’m looking to collaborate on frontend project, making use of my skills.ç
+- 🔭 I’m currently working on personal projects.
+
+
+
+
