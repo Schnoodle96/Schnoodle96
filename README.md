@@ -12,7 +12,7 @@
 - 2020 / **INGENIERO EN SISTEMAS Y SOFTWARE** -*Corporación Universitaria Rafael Nuñez*.
 
 
-### Cursos.
+### 📚 Cursos.
 - **Bootcamp Full-Stack JavaScript** / Undefined Academy - Guillermo Rodas.
 - **JavaScript Moderno: Guía para dominar el lenguaje** / Udemy - Fernando Herrera.
 - **Formación Front End** - Oracle ONE / Alura Latam.
